@@ -1,0 +1,12 @@
+{
+    "name": "twodigital/disable-users",
+    "description": "Customizacao do plugins disable-users.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Diego de Biagi",
+            "email": "diego.biagi@twodigital.com.br"
+        }
+    ],
+    "require": {}
+}
