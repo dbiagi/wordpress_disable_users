@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Disable Users
- * Plugin URI:  http://wordpress.org/extend/disable-users
+ * Plugin URI:  https://github.com/dbiagi/wordpress_disable_users
  * Description: This plugin provides the ability to disable specific user accounts.
- * Version:     1.0.5
- * Author:      Jared Atchison
- * Author URI:  http://jaredatchison.com 
+ * Version:     1.0.0
+ * Author:      Diego de Biagi
+ * Author URI:  https://github.com/dbiagi
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -17,12 +17,6 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
- * @author     Jared Atchison
- * @version    1.0.5
- * @package    JA_DisableUsers
- * @copyright  Copyright (c) 2015, Jared Atchison
- * @link       http://jaredatchison.com
- * @license    http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 
 final class ja_disable_users {
