@@ -1,4 +1,4 @@
-# wordpress_disable_users
+# wordpress-disable-users
 
 This plugins is based on the plugin disable_user made by jaredatch. 
 
