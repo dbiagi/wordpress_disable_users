@@ -3,7 +3,7 @@
  * Plugin Name: Disable Users (Plugin Customizado, NÃO Atualizar)
  * Plugin URI:  https://github.com/dbiagi/wordpress_disable_users
  * Description: This plugin provides the ability to disable specific user accounts.
- * Version:     1.0.5
+ * Version:     1.0.6
  * Author:      Diego de Biagi
  * Author URI:  https://github.com/dbiagi
  *
